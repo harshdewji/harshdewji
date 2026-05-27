@@ -88,18 +88,17 @@ My work focuses on creating high-performance full stack systems using modern Jav
 * Developer Tooling & Automation
 
 ---
+## 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshdewji&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdewji&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshdewji&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 

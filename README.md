@@ -87,21 +87,55 @@ My work focuses on creating high-performance full stack systems using modern Jav
 * Web Performance Optimization
 * Developer Tooling & Automation
 
----
-## 📊 GitHub Analytics
+## 📊<!-- ========================================= -->
+<!--             GITHUB ANALYTICS              -->
+<!-- ========================================= -->
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshdewji&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdewji&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshdewji&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
 
+<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=79C0FF" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshdewji&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FF7B72" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshdewji&theme=tokyonight" width="95%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshdewji&theme=tokyonight" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshdewji&theme=tokyonight" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshdewji&theme=tokyonight&utcOffset=5.30" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+
+</div>
 # 🏗 Featured Projects
 
 ## 💬 Real-Time Chat Application
